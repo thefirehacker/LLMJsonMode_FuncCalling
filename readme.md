@@ -10,3 +10,5 @@
 
 ##  Function calling for various LLM and  end points 
 
+- Test NousResearch claim for very high pass rate on certain LLM
+
