@@ -1,5 +1,11 @@
 # Json mode test
 
+| Source LLM            | Type | Performance | Comments                                 |   |
+|-----------------------|------|-------------|------------------------------------------|---|
+| OpenAI chat create    | API  | InProgress  |                                          |   |
+| Nous Research Mistral | LLM  |             | Not Released, Agentic func ALso expected |   |
+|                       |      |             |                                          |   |
+
 
 ## Json mode test for various LLM and end points 
 
